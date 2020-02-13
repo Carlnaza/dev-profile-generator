@@ -24,5 +24,5 @@
 
                 ## Questions
                 Username: carlnaza
-                Format: ![git hub profile img](https://api.github.com/users/Carlnaza)
+               ![git hub profile img](https://avatars1.githubusercontent.com/u/58896925?s=460&v=4)
                 
