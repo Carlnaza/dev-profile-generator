@@ -83,7 +83,7 @@ function init() {
         .then(gitUser => {
 
             let userInfo = {
-                img_url: gitUser.data.url,
+                img_url: gitUser.data.avatar_url,
             }
 
             const readMeContent = (input) => {
@@ -113,7 +113,7 @@ function init() {
 
                 ## Questions
                 Username: ${input.username}
-                Format: ![git hub profile img](${userInfo.img_url})
+                ![git hub profile img](${userInfo.img_url})
                 `
 
                 fs.writeFile('README.md', txt, e => e ? console.log(e) : null)
