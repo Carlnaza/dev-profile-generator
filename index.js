@@ -113,7 +113,7 @@ function init() {
 
                 ## Questions
                 ${input.username}
-                <img src='${userInfo.img_url}' alt='git hub profile img'>
+                <img href='${userInfo.img_url}' alt='git hub profile img'>
                 `
 
                 fs.writeFile('README.md', txt, e => e ? console.log(e) : null)
