@@ -2,27 +2,27 @@
                 # README.md Generator
 
                 ## Description
-                An app that automates the creation of README.md files for Developers.
+                An app that automates a Developers readme files for projects.
 
                 ## Table Of Contents
-                null
+                n.a
 
                 ## Install
-                null
+                n.a
 
                 ## Usage
                 >node index.js
 
                 ## License
-                null
+                n.a
 
                 ## Contributing
-                null
+                n.a
 
                 ## Tests
-                null
+                n.a
 
                 ## Questions
                 Username: carlnaza
-               ![git hub profile img](https://avatars1.githubusercontent.com/u/58896925?s=460&v=4)
+                ![git hub profile img](https://avatars1.githubusercontent.com/u/58896925?v=4)
                 
