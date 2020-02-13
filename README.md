@@ -24,5 +24,5 @@
 
                 ## Questions
                 carlnaza
-                <img src='https://api.github.com/users/Carlnaza' alt='git hub profile img'>
+                <img href='https://api.github.com/users/Carlnaza' alt='git hub profile img'>
                 
