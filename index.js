@@ -88,7 +88,7 @@ function init() {
 
             const readMeContent = (input) => {
                 txt = `
-                ## ${input.title}
+                # ${input.title}
 
                 ## Description
                 ${input.description}
@@ -112,8 +112,8 @@ function init() {
                 ${input.tests}
 
                 ## Questions
-                ${input.username}
-                <img href='${userInfo.img_url}' alt='git hub profile img'>
+                Username: ${input.username}
+                Format: ![git hub profile img](${userInfo.img_url})
                 `
 
                 fs.writeFile('README.md', txt, e => e ? console.log(e) : null)

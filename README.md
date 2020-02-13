@@ -1,8 +1,8 @@
 
-                ## README Generator
+                # README.md Generator
 
                 ## Description
-                An application that prompts the developer questions and automatically generates a README.md file from the responses.
+                An app that automates the creation of README.md files for Developers.
 
                 ## Table Of Contents
                 null
@@ -23,6 +23,6 @@
                 null
 
                 ## Questions
-                carlnaza
-                <img href='https://api.github.com/users/Carlnaza' alt='git hub profile img'>
+                Username: carlnaza
+                Format: ![git hub profile img](https://api.github.com/users/Carlnaza)
                 
